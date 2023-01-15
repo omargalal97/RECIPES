@@ -1,0 +1,62 @@
+
+/* home section */
+.home-section{
+    background-image: url(../image/shutterstock_1856534230-1-700x467.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.btn{
+    background-color:rgb(244, 97, 44) ;
+}
+
+.inner-h1{
+    position: absolute;
+    top: 40%;
+    right: 0%;
+    left: 0%;
+   
+}
+
+.inner-search{
+    position: absolute;
+    top: 70%;
+    right: 0%;
+    left: 0%;
+}
+ /* navbat */
+
+.navbar{
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* footer */
+a
+,.pointer{
+    cursor: pointer;
+}
+
+footer {
+    background-image: url(../image/ChileEnNogadas-670x370.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.innerData img{
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: cover;
+}
+
+
+/* modal */
+
+
+.modal-body img {
+    width: 100%;
+    aspect-ratio: 3/2;
+    object-fit: fill;
+
+}
